@@ -5,9 +5,9 @@ A collection of ready-to-use CloudFormation templates, installation guides, and 
 ## Contents
 
 - **AWS CloudFormation Template - VPC with Public EC2 Instance** - Standard VPC setup with a publicly accessible EC2 instance
-- **Node Exporter Installation Guide** - EC2 instance configured for Prometheus monitoring
 - **Setting Up Domain Name to AWS Route 53 and HTTPS on EC2 with NGINX** - Complete guide for setting up HTTPS with Let's Encrypt on Amazon Linux 2023 & Ubuntu. Includes SSL certificate automation and domain configuration
-
+- **Node Exporter Installation Guide** - EC2 instance configured for Prometheus monitoring
+- **Prometheus Metrics Collection Architecture: Complete Guide to Scraping Node Exporter Metrics** - A concise overview explaining that this is a comprehensive guide covering the entire metrics flow from Node Exporter to Prometheus, including production-ready configurations for Nginx reverse proxy, SSL/TLS encryption, DNS setup, and secure access through custom domains. It highlights all key topics and sets clear expectations for what readers will learn.
 
 ### Documentation
 - Detailed README files for each template
